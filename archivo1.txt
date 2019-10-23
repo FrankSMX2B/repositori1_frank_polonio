@@ -1,1 +1,2 @@
 Fitxer polonio_frank
+Afegeixo linea desde el repositori local
